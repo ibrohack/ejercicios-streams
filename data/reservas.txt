@@ -1,0 +1,12 @@
+1;Ana;Bilbao;Suite;3;180.00;desayuno,spa
+2;Pedro;Madrid;Doble;2;95.00;desayuno
+3;Ane;Bilbao;Individual;4;65.00;ninguno
+4;Luis;Vitoria;Suite;2;180.00;spa,parking
+5;Marta;Bilbao;Doble;5;95.00;desayuno,parking
+6;Jon;Donostia;Individual;1;65.00;ninguno
+7;Aitor;Bilbao;Suite;2;180.00;desayuno,spa,parking
+8;Laura;Madrid;Doble;3;95.00;parking
+9;Iker;Bilbao;Doble;1;95.00;desayuno
+10;Nerea;Vitoria;Individual;6;65.00;spa
+11;Maite;Donostia;Suite;4;180.00;desayuno
+12;Unai;Madrid;Individual;2;65.00;ninguno

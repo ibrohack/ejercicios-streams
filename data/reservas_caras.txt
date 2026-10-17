@@ -1,0 +1,6 @@
+1;Ana;Bilbao;Suite;3;180.00;desayuno,spa
+4;Luis;Vitoria;Suite;2;180.00;spa,parking
+5;Marta;Bilbao;Doble;5;95.00;desayuno,parking
+7;Aitor;Bilbao;Suite;2;180.00;desayuno,spa,parking
+10;Nerea;Vitoria;Individual;6;65.00;spa
+11;Maite;Donostia;Suite;4;180.00;desayuno
