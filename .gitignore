@@ -1,0 +1,5 @@
+# Configuración local de VS Code
+.vscode/
+
+# Clases compiladas (se regeneran con javac)
+bin/
